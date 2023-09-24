@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #ccc;
+  /* The following line is for a colour fade in the background */
+  background-image: linear-gradient(to right top, #046935, #04783c, #048743, #05964b,
+  #03a652, #04b559, #04c461, #02d166, #02e06e, #02e06e);
+}
+
+span {
+  position: relative;
+  bottom: 5px;
+}
